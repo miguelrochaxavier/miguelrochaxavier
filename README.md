@@ -36,9 +36,9 @@
 
 ## 🏆 Github Stats
 
-\\\<p align="center">
- \\\<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrochaxavier&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br/>
-\\\</p> 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrochaxavier&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br/>
+</p> 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrochaxavier&theme=dark&hide_border=false" />
 </p>
