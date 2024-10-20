@@ -2,7 +2,6 @@
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/51400a22-7706-4cba-b11e-c7514268954b)<p align="center">
  <img alt="Pixel Art" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7ac05e82098695.5d133ab9ac506.gif" />
 </p>
 
