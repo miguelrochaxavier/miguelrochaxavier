@@ -20,6 +20,7 @@
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
  <img alt="Static Badge" src="https://img.shields.io/badge/adobe%20after%20effects-%23e0d850?style=for-the-badge&logo=adobe%20after%20effects&logoColor=9999FF&labelColor=%23FFFFFF&color=%23FFFFFF">
  <img alt="Static Badge" src="https://img.shields.io/badge/sony%20vegas-%23e0d850?style=for-the-badge&logo=sony&logoColor=9999FF&labelColor=%23282828&color=%23282828">
+ <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 
 </p>
