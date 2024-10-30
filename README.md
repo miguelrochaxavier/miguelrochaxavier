@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
  <img alt="Static Badge" src="https://img.shields.io/badge/adobe%20after%20effects-%23e0d850?style=for-the-badge&logo=adobe%20after%20effects&logoColor=9999FF&labelColor=%23FFFFFF&color=%23FFFFFF">
  <img alt="Static Badge" src="https://img.shields.io/badge/sony%20vegas-%23e0d850?style=for-the-badge&logo=sony&logoColor=9999FF&labelColor=%23282828&color=%23282828">
- <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 
 
 </p>
@@ -31,6 +31,7 @@
 <p align="left"> 
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23e0d850?style=for-the-badge&logo=javascript&logoColor=%23e0d850&labelColor=%23282828&color=%23282828">
+ <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
 <br/>
