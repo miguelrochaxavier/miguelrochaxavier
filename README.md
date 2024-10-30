@@ -31,7 +31,7 @@
 <p align="left"> 
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23e0d850?style=for-the-badge&logo=javascript&logoColor=%23e0d850&labelColor=%23282828&color=%23282828">
- <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
 <br/>
