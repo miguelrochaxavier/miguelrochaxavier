@@ -33,7 +33,7 @@
 </p>
 
 ## 📂 Featured Projects
-- 🔹 [Sistema de criação de usuários e login](https://github.com/luizgabrielnaoseioq/apinotionlogin)
+- 🔹 [Automação e Gerenciamento de usuário com Python](https://github.com/miguelrochaxavier/automacao-gerencimentousuarios)
 
 
 ## 📫 Get in touch
