@@ -1,15 +1,12 @@
 <h1>Hey there! I'm Miguel Rocha 👋</h1>
 
 <br/>
-
- <img alt="Pixel Art" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7ac05e82098695.5d133ab9ac506.gif" />
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrochaxavier&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br/>
+</p> 
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrochaxavier&theme=dark&hide_border=false" />
 </p>
-
-
-- 🌱 Studying and improving my knowledge every day.
-
-- 🔭 Fun fact: I'm a rookie programmer!
-
 <br/>
 
 ## 🕹️ My Skills
@@ -20,9 +17,6 @@
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-
-
-
 </p>
 
 <br/>
@@ -37,11 +31,8 @@
 
 <br/>
 
-## 🏆 Github Stats
+## 📫 Get in touch
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrochaxavier&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br/>
-</p> 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrochaxavier&theme=dark&hide_border=false" />
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23e0d850?style=for-the-badge&logo=javascript&logoColor=%23e0d850&labelColor=%23282828&color=%23282828">
 </p>
