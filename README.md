@@ -1,16 +1,21 @@
-<h1>Hey there! I'm Miguel Rocha 👋</h1>
 
-<br/>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrochaxavier&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br/>
-</p> 
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrochaxavier&theme=dark&hide_border=false" />
-</p>
-<br/>
+<h1 align="center"> Hey there! I'm Miguel Rocha 👋 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miguelrochaxavier.miguelrochaxavier" />
+</h1>
 
-## 🕹️ My Skills
-<p align="left"> 
+<div align="center">
+<a href="https://github.com/isb-op">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielnaoseioq&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgabrielnaoseioq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🚀 About me
+
+- 🎓 **Formação**: Estudando em Desenvolvimento de Sistemas 
+- 🌍 **Idiomas**: Português (nativo), Inglês (Nível A2)
+
+## 🛠️ Technologies and Tools
+<p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -19,20 +24,25 @@
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </p>
 
-<br/>
-
-## 📚 Studying and knowing
-<p align="left"> 
+## 📚 Studying and working
+<p>
  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23e0d850?style=for-the-badge&logo=javascript&logoColor=%23e0d850&labelColor=%23282828&color=%23282828">
  <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/PHP-6b5b95?style=for-the-badge&logo=php&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<br/>
+## 📂 Featured Projects
+- 🔹 [Sistema de criação de usuários e login](https://github.com/luizgabrielnaoseioq/apinotionlogin)
+
 
 ## 📫 Get in touch
-
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23e0d850?style=for-the-badge&logo=javascript&logoColor=%23e0d850&labelColor=%23282828&color=%23282828">
+<p>
+  <a href="https://www.linkedin.com/in/luiz-gabriel-3758a32ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gabrielon6689@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/luiz_gabriel_nao_sei_oq_/?next=%2F" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
