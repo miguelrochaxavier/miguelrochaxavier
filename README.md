@@ -38,11 +38,11 @@
 
 ## 📫 Get in touch
 <p>
-  <a href="https://www.linkedin.com/in/luiz-gabriel-3758a32ab/" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-rocha-xavier-903a972a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:gabrielon6689@gmail.com">
+  <a href="miguellrochaxavier@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/luiz_gabriel_nao_sei_oq_/?next=%2F" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/miguel.rcha/?next=%2F" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
