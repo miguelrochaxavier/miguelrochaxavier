@@ -30,7 +30,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23e0d850?style=for-the-badge&logo=javascript&logoColor=%23e0d850&labelColor=%23282828&color=%23282828">
  <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/PHP-6b5b95?style=for-the-badge&logo=php&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ## 📂 Featured Projects
