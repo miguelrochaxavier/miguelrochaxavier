@@ -34,6 +34,7 @@
 
 ## 📂 Featured Projects
 - 🔹 [Automação e Gerenciamento de usuário com Python](https://github.com/miguelrochaxavier/automacao-gerencimentousuarios)
+- 🔹 [Cálculos matemáticos fatoriais com Python](https://github.com/miguelrochaxavier/fatorial-python)
 
 
 ## 📫 Get in touch
