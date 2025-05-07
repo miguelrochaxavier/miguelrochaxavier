@@ -11,7 +11,7 @@
 ## 🚀 About me
 
 - 🎓 **Formação**: Estudando em Desenvolvimento de Sistemas 
-- 🌍 **Idiomas**: Português (nativo), Inglês (Nível A2)
+- 🌍 **Idiomas**: Português (nativo), Inglês (Nível A2->B1)
 
 ## 🛠️ Technologies and Tools
 <p>
