@@ -77,7 +77,7 @@
 
 
   <h3>🧲 Connect me :</h3>
-<a href="miguellrochaxavier@gmail.com">
+<a href="malito:miguellrochaxavier@gmail.com">
   <img width="60px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" /></a> 
   
   <a href="https://www.linkedin.com/in/miguelrochaxavier" target="_blank">
